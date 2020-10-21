@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-profile-trophy.vercel.app/?username=Nstampfli&theme=monokai
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nstampfli&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Nstampfli/Nstampfli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
