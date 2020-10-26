@@ -5,12 +5,12 @@
 <br>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nstampfli&show_icons=true&theme=gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nstampfli&show_icons=true&theme=radical)
 
 <br>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nstampfli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nstampfli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nstampfli/Nstampfli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
