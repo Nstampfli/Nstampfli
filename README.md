@@ -5,7 +5,7 @@
 <br>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nstampfli&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nstampfli&show_icons=true&theme=gradient)
 
 <br>
 <br>
