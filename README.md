@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nojaas&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nstampfli&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nojaas&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nstampfli&show_icons=true&theme=radical)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nstampfli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nstampfli/Nstampfli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
